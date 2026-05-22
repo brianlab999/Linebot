@@ -1,4 +1,4 @@
-# Linebot — 3C Shopping Assistant
+# 3C-Shopping-Assistant-Linebot
 
 A multi-feature LINE chatbot that helps users explore 3C (Computer, Communication, Consumer electronics) products, query prices across multiple retailers, read the latest tech news, get AI-powered consultation, and submit customer feedback — all through a single conversational LINE interface.
 
